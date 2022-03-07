@@ -12,12 +12,13 @@ def make_division_by(n):
 
 
 def run():
-    # repeat_5 = make_repeater_of(5)
-    # print(repeat_5("Jelow "))
-    # repeat_5 = make_repeater_of(4)
-    # print(repeat_5("xopita "))
     division = make_division_by(7)
     print(division(70))
+
+
+x = 1
+def my_num():
+    x = 4
 
 
 if __name__ == "__main__":

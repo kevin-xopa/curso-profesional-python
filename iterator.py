@@ -1,3 +1,5 @@
+# iterators:    data structure to store infinite data
+
 # a for is syntactic sugar of this
 
 # creating iterator
